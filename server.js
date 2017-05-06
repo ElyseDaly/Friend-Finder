@@ -8,7 +8,7 @@ var path = require('path');
 
 //EXPRESS SETUP
 var app = express();
-var PORT = 3000;
+var PORT = 5000;
 
 
 //BODY PARSER SETUP
